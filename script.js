@@ -44,7 +44,4 @@ function playAudio() {
     audio.play();
   }
   
-  function pauseAudio() {
-    var audio = document.getElementById("meu-audio");
-    audio.pause();
-  }
+  
